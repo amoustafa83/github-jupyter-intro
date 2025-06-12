@@ -10,3 +10,4 @@ This repository contains materials for a 1.5-hour workshop introducing GitHub an
 
 - `notebooks/intro_notebook.ipynb`: Hands-on notebook
 - `data/simple_dataset.csv`: Sample dataset
+Amira is AWESOME
